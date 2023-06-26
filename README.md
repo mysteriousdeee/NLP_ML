@@ -3,15 +3,16 @@
 I found this help well explained course on LinkedIn with follow along
 exercise, so i decided to flex it and practice towards my phishing research
 
-I had so much fun.
+So much fun.
+___
 
 ## Descrption
 
 ### Dataset 
-SMSSpamCollection is a tsv file that is delimited by "\t"
+`SMSSpamCollection.tsv` is a tsv file that is delimited by "\t"
 
 ### Enttry point
-app.ipynb is the jupyter notebook file for the build and practice of NLP, find a suitable
+`data_cleaning.ipynb` is the jupyter notebook file for the build and practice of NLP, find a suitable
 name much later.
 
 ## Preparing the dataset
@@ -26,7 +27,14 @@ name much later.
 7.  Perform stemming, perform lemmatising, study the difference.
 
 ### Change those text to some binaries
+This particular task was carried out in the file `vectorisation.ipynb` as we tokenised here in
+a more pythonic way
 
+#### Procedure for vectoriation
+#### Count vectorisation
+
+
+___
 ### Others
 everythiing you can't see reside in ignnore zone
 
