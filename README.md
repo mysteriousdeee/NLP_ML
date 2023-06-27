@@ -26,13 +26,23 @@ name much later.
 6.  Remove, special char, tokenise data, drop stopwords
 7.  Perform stemming, perform lemmatising, study the difference.
 
-### Change those text to some binaries
+#### Change those text to some binaries
 This particular task was carried out in the file `vectorisation.ipynb` as we tokenised here in
 a more pythonic way
 
 #### Procedure for vectoriation
-#### Count vectorisation
+##### Count vectorisation
+Perform count vectorisation on the text by fiting and transform, import from nltk lib.
+Convert the array back to dataframe to see the document fit matrix, all the tokenised words and their
+count across the dataset. Here the analyser with the cleaning function is used when parsing the text 
+during instatantion.
 
+#### N_gram vectorisation
+Perform N_gram vectorisation on the text by fiting and transform, import from nltk lib
+Convert the array back to dataframe to see the document fit matrix, all the tokenised words and their
+count across the dataset. Here no analyser with the cleaning function is used when parsing the text during instatantion
+
+`For both processes above notice a smaller chunk of the data was used to give a proper overview of what it looks like.`
 
 ___
 ### Others
