@@ -44,9 +44,26 @@ count across the dataset. Here no analyser with the cleaning function is used wh
 
 `For both processes above notice a smaller chunk of the data was used to give a proper overview of what it looks like.`
 
+### Feature Engineering
+Here the real thing kind of commence.
+Create new features or tranform exisiting features to be used to train the model. What else can we extra?
+i.e. length of message, percent of characters that are punctuation, or percent of text uppercase.
+
+Power transformation: taking square root, squaring data
+Transformation can be done to make the model more well behaved. i.e. if we have a very skewed data
+with a very long right tail, log transformation pulls those outliers data back towards the bulk of the data
+helps model draw correlation and understand the data without overfitting.
+
+Standardisation
+Transforming data to make the feature on same scale. get creative, extra much helpful features as possible.
+
+#### Creating the features
+
+
+
 ___
 ### Others
-everythiing you can't see reside in ignnore zone
+" " > /dev/null
 
 ### Thank you
 welcome to my non-pythonic world
