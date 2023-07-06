@@ -58,7 +58,11 @@ Standardisation
 Transforming data to make the feature on same scale. get creative, extra much helpful features as possible.
 
 #### Creating the features
+Some features can be extracted from the data to help the model predict better, for this particular dataset we like to look 
+at the legnth of text and percentage of punctuation in the text which we was believed to have significance in the 
+classfication of the text as 'spam' or 'ham'
 
+#### Evaluate the Features
 
 
 ___
