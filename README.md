@@ -1,6 +1,8 @@
 # HOW I LEARNT NLP FOR MACHINE LEARNING FROM A LINKEDIN COURSE BY DEREK
+### Thank you for stopping by
+Welcome to my non-pythonic world
 
-I found this help well explained course on LinkedIn with follow along
+I found this helpful well explained course on LinkedIn with follow along
 exercise, so i decided to flex it and practice towards my phishing research
 
 So much fun.
@@ -111,5 +113,4 @@ ___
 ### Others
 $ echo "project" > /dev/null
 
-### Thank you
-welcome to my non-pythonic world
+
