@@ -109,7 +109,7 @@ Exhastively search all parameter combinations in a guven grid to determine the b
 
 ___
 ### Others
-$ echo " " > /dev/null
+$ echo "project" > /dev/null
 
 ### Thank you
 welcome to my non-pythonic world
