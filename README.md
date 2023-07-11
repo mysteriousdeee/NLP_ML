@@ -109,6 +109,20 @@ holdout set (test) in each of the iteration.
 #### Grid-search
 Exhastively search all parameter combinations in a guven grid to determine the best model. Set different hyperparameter values.
 
+### Gradient Boosting
+Gradient boosting is a powerful algorithm which can be used for both classfication or regression problems, it is also an ensemble method
+takes an iterative approach to create a strong learner from several weak learners. It uses decision trees, placing heavier weight on the
+decisions it got wrong. 
+
+In Gradient boosting, the following occurs:
+- Iterative training
++ Weighted voting for final prediction
++ Tuning and easy overfitting
+- Longer training time
+* Harder to tune
+
+Overall it is a more powerful classifier, accepts various input types. 
+
 ___
 ### Others
 $ echo "project" > /dev/null
